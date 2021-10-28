@@ -10,13 +10,13 @@ Prerequisites :
 * git CLI
 
 Steps to run : 
-* Clone the git repository
+* Clone the git repository </br>
 $ git clone https://www.github.com/sumukhbhandarkar/NextBiggestInteger.git
 
-* Enter the directory
+* Enter the directory </br>
 $ cd NextBiggestInteger
 
-* Run the test driver
+* Run the test driver </br>
 $ mvn test
 
 ----
